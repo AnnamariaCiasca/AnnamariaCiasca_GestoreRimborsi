@@ -13,3 +13,9 @@ Spese di Luigi:
 Data: 9/15/2021 12:00:00 AM  -  Categoria: Trasferta  -  Spesa sostenuta: 402€  -  Approvata: True  -  Rimborso: 251€
 
 
+Spese di Mario: 
+Data: 9/20/2021  -  Categoria: Vitto  -  Spesa sostenuta: 1200€  -  Approvata: True  -  Rimborso: 840€
+Data: 9/20/2021  -  Categoria: Alloggio  -  Spesa sostenuta: 800€  -  Approvata: True  -  Rimborso: 800€
+Data: 9/20/2021  -  Categoria: Trasferta  -  Spesa sostenuta: 120€  -  Approvata: True  -  Rimborso: 110€
+
+

@@ -127,7 +127,7 @@ namespace GestoreRimborsi.Core.BusinessLayer
                         sw.WriteLine($"Spese di {nome}: ");
                         foreach (var m in monitoraggi)
                         {
-                            sw.WriteLine($"Data: {m.Data}  -  Categoria: {m.Categoria} " +
+                            sw.WriteLine($"Data: {m.Data.ToShortDateString()}  -  Categoria: {m.Categoria} " +
                                 $" -  Spesa sostenuta: {m.Spesa}€  -  Approvata: {m.Approvata}  -  Rimborso: {m.Rimborso}€");
                         }
                         sw.WriteLine("\n");
