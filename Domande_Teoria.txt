@@ -1,0 +1,8 @@
+1) I Value Type sono tutti quegli oggetti che contengono direttamente un dato, come i tipi primitivi int, double, float e così via.
+I Reference Type sono oggetti che contengono un indirizzo di memoria al cui interno è contenuto il dato, come il tipo string. Essi, a differenza dei Value Type, possono assumere anche valori null.
+
+
+2) La piattaforma .Net mette a disposizione una Common Infrastructure in cui sono presenti Common Language Infrastructure, Standard Library e un IDE di sviluppo (Visual Studio).
+
+3) .NET Framework risale al 2002, e può essere utilizzato solo su Windows, supporta applicazioni Windows e Web e può essere utilizzato per realizzare WPF e UWP.
+   .Net Core è più recente (2014), è open source e può essere utilizzato su tutti i Sistemi Operativi.
