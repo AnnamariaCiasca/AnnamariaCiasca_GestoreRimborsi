@@ -1,0 +1,15 @@
+Spese di Piero: 
+Data: 9/17/2021 12:00:00 AM  -  Categoria: Alloggio  -  Spesa sostenuta: 2550€  -  Approvata: False  -  Rimborso: 0€
+Data: 9/17/2021 12:00:00 AM  -  Categoria: Altro  -  Spesa sostenuta: 320€  -  Approvata: True  -  Rimborso: 32€
+
+
+Spese di Mario: 
+Data: 9/20/2021 12:00:00 AM  -  Categoria: Vitto  -  Spesa sostenuta: 1200€  -  Approvata: True  -  Rimborso: 840€
+Data: 9/20/2021 12:00:00 AM  -  Categoria: Alloggio  -  Spesa sostenuta: 800€  -  Approvata: True  -  Rimborso: 800€
+Data: 9/20/2021 12:00:00 AM  -  Categoria: Trasferta  -  Spesa sostenuta: 120€  -  Approvata: True  -  Rimborso: 110€
+
+
+Spese di Luigi: 
+Data: 9/15/2021 12:00:00 AM  -  Categoria: Trasferta  -  Spesa sostenuta: 402€  -  Approvata: True  -  Rimborso: 251€
+
+
